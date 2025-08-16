@@ -14,9 +14,13 @@ A minimal Flask REST API containerized with Docker, featuring simple endpoints f
 ---
 
 ## 📂 Project Structure
+
 ├── app.py # Flask application
+
 ├── requirements.txt # Python dependencies
+
 ├── Dockerfile # Docker build configuration
+
 └── README.md # Project documentation
 
 ---
