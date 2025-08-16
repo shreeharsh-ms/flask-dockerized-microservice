@@ -29,14 +29,17 @@ A minimal Flask REST API containerized with Docker, featuring simple endpoints f
 
 If you want to build the image yourself:
 Clone this repo:
+
 git clone https://github.com/shreeharsh-ms/flask-dockerized-microservice
 
 cd flask-dockerized-microservice
 
 Build the Docker image:
+
 docker build -t flask-app .
 
 Run the container:
+
 docker run -p 8000:5000 flask-app
 
 
